@@ -17,4 +17,3 @@ The order of these notebooks are as follows:
 5. **`LightCurve`**  Checking for variability
 
 6. **`Project`**  Do your own analysis based on what you have learnt
-
